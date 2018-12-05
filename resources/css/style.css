@@ -1,3 +1,8 @@
+body{
+    text-align:center;
+}
+
+
 h1{
     color:white;
     font-family:Arial, Helvetica, sans-serif;
@@ -26,5 +31,13 @@ h2{
 
 p{
     font-family: Arial, Helvetica, sans-serif;
-    font-size:22px;
+    font-size:14px;
+    color: gray;
+}
+
+h1{
+    background-image: url("/Users/adem/Desktop/projects/broadway/resources/images/the-flatiron-building.png");
+    font-size:23px;
+    font-weight:bold;
+    color:white
 }
