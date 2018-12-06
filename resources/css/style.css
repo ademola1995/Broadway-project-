@@ -11,8 +11,7 @@ h1{
 }
 
 .adeheader{
-    background-image: url("/Users/adem/Desktop/projects/broadway/resources/images/the-flatiron-building.png");
-    
+    background-image: url("./images/the-flatiron-building.png")
 
 }
 
@@ -36,7 +35,7 @@ p{
 }
 
 h1{
-    background-image: url("/Users/adem/Desktop/projects/broadway/resources/images/the-flatiron-building.png");
+    background-image: url("./images/the-flatiron-building.png");
     font-size:23px;
     font-weight:bold;
     color:white
