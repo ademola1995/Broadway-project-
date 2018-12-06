@@ -45,4 +45,6 @@ h1{
 .changecolor{
     background-color:dimgray;
     color:white;
+    display:block;
+    
 }
